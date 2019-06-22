@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa845de-26b6-4f45-8f40-42a12e266bca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jenkins.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="factorial.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="factorial.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/factorial.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bubble_sort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bubble_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -49,6 +60,7 @@
         <option value="$PROJECT_DIR$/Module_01_MSSql_MetaData_Definition.py" />
         <option value="$PROJECT_DIR$/argumnet_testing.py" />
         <option value="$PROJECT_DIR$/factorial.py" />
+        <option value="$PROJECT_DIR$/bubble_sort.py" />
       </list>
     </option>
   </component>
@@ -77,6 +89,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,6 +166,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
