@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa845de-26b6-4f45-8f40-42a12e266bca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="argumnet_testing.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="argumnet_testing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/argumnet_testing.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
               <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factorial.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/factorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -39,6 +48,7 @@
       <list>
         <option value="$PROJECT_DIR$/Module_01_MSSql_MetaData_Definition.py" />
         <option value="$PROJECT_DIR$/argumnet_testing.py" />
+        <option value="$PROJECT_DIR$/factorial.py" />
       </list>
     </option>
   </component>
@@ -134,6 +144,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
