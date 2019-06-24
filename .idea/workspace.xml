@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aa845de-26b6-4f45-8f40-42a12e266bca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Module_05_Data_Validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_04_Snowflake_Data_To_S3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,13 +32,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Module_05_Data_Validation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Module_05_Data_Validation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Module_05_Data_Validation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
               <caret line="310" column="80" selection-start-line="310" selection-start-column="80" selection-end-line="310" selection-end-column="80" />
               <folding>
                 <element signature="e#39#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Module_04_Snowflake_Data_To_S3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module_04_Snowflake_Data_To_S3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="402" lean-forward="true" selection-start-line="402" selection-end-line="402" />
+              <folding>
+                <element signature="e#39#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,6 +115,7 @@
         <option value="$PROJECT_DIR$/hbs_get_sku_member.py" />
         <option value="$PROJECT_DIR$/hbs_placementstrategymap.py" />
         <option value="$PROJECT_DIR$/Module_05_Data_Validation.py" />
+        <option value="$PROJECT_DIR$/Module_04_Snowflake_Data_To_S3.py" />
       </list>
     </option>
   </component>
@@ -375,6 +388,16 @@
           <caret line="310" column="80" selection-start-line="310" selection-start-column="80" selection-end-line="310" selection-end-column="80" />
           <folding>
             <element signature="e#39#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_04_Snowflake_Data_To_S3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="402" lean-forward="true" selection-start-line="402" selection-end-line="402" />
+          <folding>
+            <element signature="e#39#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
