@@ -6,8 +6,8 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 import json
 import base64
-url = "http://hdpm2.hepsiburada.cloud:7788/"
-table_name = "placementstrategymap"
+#url = "http://hdpm2.hepsiburada.cloud:7788/"
+#table_name = "placementstrategymap"
 #testgroup = "A2"
 #placementid = "item_page.web-Unprocurable"
 testgroup = testgroup.replace(" ","")
